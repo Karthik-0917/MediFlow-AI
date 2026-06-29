@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MediFlow AI Banner](screenshots/dashboard.png)
+![MediFlow AI Banner](screenshots/1.1dashboard.png)
 
 <br/>
 
