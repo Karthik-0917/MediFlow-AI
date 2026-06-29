@@ -344,8 +344,6 @@ JWT_SECRET=YOUR_SECRET_KEY
 
 ## 👥 Team
 
-## 👥 Team
-
 <table>
   <tr>
     <td align="center">
