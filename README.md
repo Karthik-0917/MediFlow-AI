@@ -356,6 +356,7 @@ JWT_SECRET=YOUR_SECRET_KEY
       <b>Varshith Reddy</b><br/>
       B.Tech Computer Science Engineering<br/>
       GITAM University, Hyderabad<br/>
+      <a href="https://github.com/varshithreddyy6">GitHub</a>
     </td>
   </tr>
 </table>
