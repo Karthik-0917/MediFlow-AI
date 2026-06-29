@@ -1,8 +1,9 @@
+
 # MediFlow AI — AI-Powered Hospital Workflow Orchestration Platform
 
 <div align="center">
 
-![MediFlow AI Banner](screenshots/1.1dashboard.png)
+![MediFlow AI Banner](Screenshots/1.1dashboard.png)
 
 <br/>
 
@@ -176,7 +177,7 @@ Modern healthcare operations suffer from:
 └─────────────────────────────────────────────────┘
 ```
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
+![Architecture Diagram](Screenshots/MediFlow%20AI%20system%20architecture%20diagram.png)
 
 ---
 
@@ -214,7 +215,7 @@ MediFlow-AI/
 │       ├── services/       # API service integrations
 │       └── assets/         # Images and media files
 │
-├── screenshots/            # Application screenshots
+├── Screenshots/            # Application screenshots
 │
 └── README.md
 ```
@@ -223,46 +224,36 @@ MediFlow-AI/
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td align="center"><b>Dashboard</b></td>
-    <td align="center"><b>Patient Management</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/dashboard.png" alt="Dashboard"/></td>
-    <td><img src="screenshots/patients-page.png" alt="Patients"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Emergency Queue</b></td>
-    <td align="center"><b>Doctor Assignment</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/emergency-queue.png" alt="Emergency Queue"/></td>
-    <td><img src="screenshots/doctor-assignment.png" alt="Doctor Assignment"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Insurance Dashboard</b></td>
-    <td align="center"><b>Billing Dashboard</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/insurance-page.png" alt="Insurance"/></td>
-    <td><img src="screenshots/billing-page.png" alt="Billing"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Approvals Dashboard</b></td>
-    <td align="center"><b>AI Insights Panel</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/approvals-page.png" alt="Approvals"/></td>
-    <td><img src="screenshots/ai-insights-panel.png" alt="AI Insights"/></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><b>UiPath Maestro BPMN Workflow</b></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="screenshots/uipath-bpmn-workflow.png" alt="UiPath BPMN Workflow"/></td>
-  </tr>
-</table>
+### 🔐 Login Page
+![Login Page](Screenshots/login-page.png)
+
+### 📊 Dashboard
+![Dashboard 1](Screenshots/1.1dashboard.png)
+![Dashboard 2](Screenshots/1.2dashboard.png)
+![Dashboard 3](Screenshots/1.3dashboard.png)
+![Dashboard 4](Screenshots/1.4dashboard.png)
+![Dashboard 5](Screenshots/1.5dashboard.png)
+
+### 👨‍⚕️ Patient Management
+![Patients Page](Screenshots/patientspage.png)
+
+### 🚨 Emergency Queue
+![Emergency Queue](Screenshots/emergency-queue.png)
+
+### 🩺 Doctor Assignment
+![Doctor Assignment](Screenshots/doctor-assignment.png)
+
+### 🛡️ Insurance Dashboard
+![Insurance Page](Screenshots/insurance-page.png)
+
+### 💰 Billing Dashboard
+![Billing Page](Screenshots/billing-page.png)
+
+### ✅ Approvals Dashboard
+![Approvals Page](Screenshots/approvals-page.png)
+
+### 🔄 UiPath Maestro BPMN Workflow
+![UiPath Diagram](Screenshots/uipath-diagram.png)
 
 ---
 
@@ -353,6 +344,8 @@ JWT_SECRET=YOUR_SECRET_KEY
 
 ## 👥 Team
 
+## 👥 Team
+
 <table>
   <tr>
     <td align="center">
@@ -361,18 +354,27 @@ JWT_SECRET=YOUR_SECRET_KEY
       GITAM University, Hyderabad<br/>
       <a href="https://github.com/Karthik-0917">GitHub</a>
     </td>
+    <td align="center">
+      <b>Varshith Reddy</b><br/>
+      B.Tech Computer Science Engineering<br/>
+      GITAM University, Hyderabad<br/>
+    </td>
   </tr>
 </table>
 
-**Team Name:** Neural Nexus
-**Hackathon:** UiPath AgentHack
+**Team Name:** Neural Nexus  
+**Hackathon:** UiPath AgentHack  
+**Category:** AI-Powered Workflow Automation
+
+**Team Name:** Neural Nexus  
+**Hackathon:** UiPath AgentHack  
 **Category:** AI-Powered Workflow Automation
 
 ---
 
 ## 📜 License
 
-This project is developed for **educational and hackathon purposes**.
+This project is developed for **educational and hackathon purposes**.  
 All rights reserved © 2024 Karthik Neduri — Neural Nexus.
 
 ---
@@ -385,3 +387,4 @@ All rights reserved © 2024 Karthik Neduri — Neural Nexus.
 [![GitHub forks](https://img.shields.io/github/forks/Karthik-0917/MediFlow-AI?style=social)](https://github.com/Karthik-0917/MediFlow-AI/network/members)
 
 </div>
+```
